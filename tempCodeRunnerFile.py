@@ -1,1 +1,0 @@
-print('Accuracy : ', accuracy*100, '%')
